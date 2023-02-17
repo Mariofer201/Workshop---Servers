@@ -1,4 +1,4 @@
-# Workshop-Servers
+#:musical_note: Workshop-Servers :bowtie:
 
 ![main](https://www.hrconnect.cl/wp-content/uploads/2019/02/1.jpg)
 
@@ -12,4 +12,4 @@ In this work we want to let the public know how the DTO Y DAO is used through a 
 ## Charge  :construction_worker:
 ## User : :page_facing_up:
 ## Customer :computer:
-## :grinning: 	:wink: 	:two_hearts:
+## 	:boom: 	:wink: 	:love_letter:
