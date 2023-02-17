@@ -10,6 +10,6 @@ In this work we want to let the public know how the DTO Y DAO is used through a 
 ## Age :older_man:
 ## ID number :date:
 ## Charge  :construction_worker:
+## User : :page_facing_up:
+## Customer :computer:
 ## :grinning: 	:wink: 	:two_hearts:
-## User : Page With Curl
-## Customer : Laptop
